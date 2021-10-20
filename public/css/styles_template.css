@@ -1,0 +1,37 @@
+body {
+  padding-top: 0px;
+}
+
+.nav-link:hover{
+    transition: all 0.5s;
+
+    background: rebeccapurple;
+    font-size: large;
+
+}
+
+#contenido{
+  padding:20px;
+
+}
+
+.total-tabla{
+  text-align: right;
+}
+
+
+.checkbox{
+  margin:20px;
+}
+
+.CONFIGURACION{
+
+  padding: 10px;
+
+}
+
+.CONFIGURACION:hover{
+
+  color:#98E8E2;
+
+}
